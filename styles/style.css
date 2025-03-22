@@ -1,0 +1,255 @@
+body{
+    padding: 0;
+    margin: auto;
+}
+.wallpaper_home{
+    position: absolute;
+    width: 1920px;
+    height: 1080px;
+}
+
+.home{
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 700;
+    color: #0A507A;
+    margin-left: 100px;
+    margin-top: 60px;
+    position: absolute;
+    font-size: 20px;
+}
+
+.activities{
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 700;
+    color: #0A507A;
+    margin-left: 193px;
+    margin-top: 60px;
+    position: absolute;
+    font-size: 20px;
+}
+
+.pricing_plan{
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 700;
+    color: #0A507A;
+    margin-left: 315px;
+    margin-top: 60px;
+    position: absolute;
+    font-size: 20px;
+}
+
+.contact_us{
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 700;
+    color: #0A507A;
+    margin-left: 460px;
+    margin-top: 60px;
+    position: absolute;
+    font-size: 20px;
+}
+
+.blog{
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 700;
+    color: #0A507A;
+    margin-left: 597px;
+    margin-top: 60px;
+    position: absolute;
+    font-size: 20px;
+}
+
+.about_us{
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 700;
+    color: #0A507A;
+    margin-left: 677px;
+    margin-top: 60px;
+    position: absolute;
+    font-size: 20px;
+}
+
+.header__text{
+    position: absolute;
+    padding: 0;
+    width: 1714px;
+    height: 267px;
+    margin-top: 129px;
+    margin-left: 103px;
+    z-index: -1;
+}
+
+.romb{
+    width: 226px;
+    height: 46px;
+    background-color: #0A507A;
+    border-radius: 30px;
+    margin-left: 1594px;
+    margin-top: 50px;
+    position: absolute;
+}
+.number{
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 700;
+    color: #FFFFFF;
+    margin-left: 1640px;
+    margin-top: 60px;
+    padding: 0;
+    font-size: 20px;
+    position: absolute;
+}
+.icon_telephone{
+    margin-left: 1610px;
+    margin-top: 64px;
+    position: absolute;
+}
+.romb__title{
+    width: 226px;
+    height: 46px;
+    background-color: #2B2A29;
+    border-radius: 30px;
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 100px;
+}
+
+.text__in__romb{
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 700;
+    color: #FFFFFF;
+    font-size: 20px;
+    margin-top: 340px;
+    margin-left: 123px;
+    position: absolute;
+}
+.square__title__home{
+    position: absolute;
+    width: 392px;
+    height: 485px;
+    background-color: #FFFFFF;
+    margin-left: 1428px;
+    margin-top: 350px;
+    border-radius: 10px;
+    opacity: 0.7;
+}
+.img__square{
+    position: absolute;
+    margin-left: 1448px;
+    margin-top: 545px;
+}
+
+.text__square1{
+    position: absolute;
+    font-size: 32px;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 800;
+    margin-left: 1448px;
+    margin-top: 380px;
+}
+.text__square2{
+    position: absolute;
+    font-size: 32px;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 800;
+    margin-left: 1448px;
+    margin-top: 420px;
+}
+.text__square3{
+    position: absolute;
+    font-size: 16px;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 800;
+    margin-left: 1448px;
+    margin-top: 490px;
+    text-decoration: line-through;
+}
+
+.button1{
+    width: 190px;
+    height: 54px;
+    border-radius: 30px;
+    background-color: transparent;
+    border-color: #0A507A;
+    position: absolute;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    color: #0A507A;
+    margin-left: 100px;
+    margin-top: 600px;
+}
+
+.button2{
+    width: 190px;
+    height: 54px;
+    border-radius: 30px;
+    background-color: transparent;
+    border-color: #0A507A;
+    position: absolute;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    color: #0A507A;
+    margin-left: 100px;
+    margin-top: 600px;
+}
+
+.button3{
+    width: 190px;
+    height: 54px;
+    border-radius: 30px;
+    background-color: transparent;
+    border-color: #0A507A;
+    position: absolute;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    color: #0A507A;
+    margin-left: 100px;
+    margin-top: 600px;
+}
+.Group_lessons_button{
+    width: 190px;
+    height: 54px;
+    border-radius: 30px;
+    background-color: transparent;
+    border-color: #0A507A;
+    position: absolute;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    color: #0A507A;
+    margin-left: 309px;
+    margin-top: 600px;
+}
+
+.Surf_sup_rentals_button{
+    width: 190px;
+    height: 54px;
+    border-radius: 30px;
+    background-color: transparent;
+    border-color: #0A507A;
+    position: absolute;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: #0A507A;
+    margin-left: 100px;
+    margin-top: 670px;
+}
+.container_double_page{
+    position: absolute;
+    font-size: 64px;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 800;
+    color: #2B2A29;
+    margin-top: 1230px;
+    margin-left: 100px;
+}
+.img_double_page{
+    position: absolute;
+    margin-top: 1628px;
+    margin-left: 970px;
+}
+.who_double_page{
+    position: absolute;
+}
