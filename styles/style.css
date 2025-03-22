@@ -1,13 +1,13 @@
 body{
     padding: 0;
     margin: auto;
+    overflow-x: hidden;
 }
 .wallpaper_home{
     position: absolute;
     width: 1920px;
     height: 1080px;
 }
-
 .home{
     font-family: "Rethink Sans", sans-serif;
     font-weight: 700;
@@ -218,12 +218,12 @@ body{
     font-weight: 700;
     font-size: 26px;
     color: #0A507A;
-    margin-left: 309px;
+    margin-left: 300px;
     margin-top: 600px;
 }
 
 .Surf_sup_rentals_button{
-    width: 190px;
+    width: 240px;
     height: 54px;
     border-radius: 30px;
     background-color: transparent;
@@ -231,25 +231,421 @@ body{
     position: absolute;
     font-family: "Rethink Sans", sans-serif;
     font-weight: 700;
-    font-size: 20px;
+    font-size: 26px;
     color: #0A507A;
     margin-left: 100px;
     margin-top: 670px;
 }
-.container_double_page{
+.Stand_up_puddle_button{
+    width: 233px;
+    height: 54px;
+    border-radius: 30px;
+    background-color: transparent;
+    border-color: #0A507A;
     position: absolute;
-    font-size: 64px;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    color: #0A507A;
+    margin-left: 350px;
+    margin-top: 670px;
+}
+.Surf_trips_button{
+    width: 146px;
+    height: 54px;
+    border-radius: 30px;
+    background-color: transparent;
+    border-color: #0A507A;
+    position: absolute;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    color: #0A507A;
+    margin-left: 100px;
+    margin-top: 738px;
+}
+.FaceBook{
+    position: absolute;
+    width: 62px;
+    height: 62px;
+    margin-top: 920px;
+    margin-left: 100px;
+}
+.Instagram{
+    position: absolute;
+    width: 62px;
+    height: 62px;
+    margin-top: 920px;
+    margin-left: 182px;
+}
+.YouTube{
+    position: absolute;
+    width: 62px;
+    height: 62px;
+    margin-top: 920px;
+    margin-left: 264px;
+}
+.WhatsApp{
+    position: absolute;
+    width: 62px;
+    height: 62px;
+    margin-top: 920px;
+    margin-left: 346px;
+}
+.BookNow{
+    width: 216px;
+    height: 62px;
+    border-radius: 30px;
+    background-color: #2B2A29;
+    position: absolute;
     font-family: "Rethink Sans", sans-serif;
     font-weight: 800;
+    font-size: 32px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    margin-left: 1401px;
+    margin-top: 920px;
+}
+.activities_b{
+    position: absolute;
+    width: 203px;
+    height: 62px;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 800;
+    font-size: 32px;
+    background-color: #FFFFFF;
+    border-radius: 30px;
+    text-transform: uppercase;
+    margin-top: 920px;
+    margin-left: 1640px;
+    color: #2B2A29;
+}
+.text_double_page{
+    position: absolute;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 800;
+    font-size: 64px;
     color: #2B2A29;
     margin-top: 1230px;
     margin-left: 100px;
 }
-.img_double_page{
+.img_to_double_page{
     position: absolute;
     margin-top: 1628px;
     margin-left: 970px;
 }
-.who_double_page{
+.who_to_double_page{
     position: absolute;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 1602px;
+    margin-left: 100px;
+}
+.VILAMOURA_SURF_SCHOOL{
+    position: absolute;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 800;
+    font-size: 64px;
+    margin-top: 1634px;
+    margin-left: 100px;
+}
+.button_to_double_page_Algarve{
+    position: absolute;
+    width: 128px;
+    height: 54px;
+    border-radius: 30px;
+    border-color: #0A507A;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    background-color: transparent;
+    color: #0A507A;
+    margin-top: 1990px;
+    margin-left: 100px;
+}
+.South_coast{
+    position: absolute;
+    width: 180px;
+    height: 54px;
+    border-radius: 30px;
+    border-color: #0A507A;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    background-color: transparent;
+    color: #0A507A;
+    margin-top: 1990px;
+    margin-left: 238px;
+}
+.Perfect{
+    position: absolute;
+    width: 431px;
+    height: 54px;
+    border-radius: 30px;
+    border-color: #0A507A;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    background-color: transparent;
+    color: #0A507A;
+    margin-top: 2060px;
+    margin-left: 100px;
+}
+.first_txt_to_double_page{
+    position: absolute;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    margin-top: 2300px;
+    margin-left: 100px;
+}
+.double_txt_to_double_page{
+    position: absolute;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    margin-top: 2450px;
+    margin-left: 100px;
+}
+.button_img{
+    position: absolute;
+    width: 203px;
+    height: 62px;
+    border-color: white;
+    border-radius: 30px;
+    margin-top: 2520px;
+    margin-left: 1550px;
+    background-color: #FFFFFF;
+    opacity: 0.5;
+}
+.txt_img{
+    position: absolute;
+    font-size: 32px;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 800;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    margin-top: 2530px;
+    margin-left: 1570px;
+}
+.activities_triple_page{
+    position: absolute;
+    margin-top: 2778px;
+    margin-left: 99.5px;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+}
+.without{
+    position: absolute;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 800;
+    font-size: 64px;
+    text-transform: uppercase;
+    margin-top: 2800px;
+    margin-left: 99.5px;
+}
+.text_small{
+    position: absolute;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    margin-top: 2856.5px;
+    margin-left: 969.5px;
+}
+.book_now_triple_page{
+    position: absolute;
+    width: 216px;
+    height: 62px;
+    border-radius: 30px;
+    background-color: #2B2A29;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 800;
+    font-size: 32px;
+    color: white;
+    margin-top: 3040px;
+    margin-left: 965px;
+}
+.circle_privat_lessons{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background-color: red;
+    margin-top: 3130px;
+    margin-left: 99.5px;
+}
+.circle_Group_Lessons{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background-color: red;
+    margin-top: 3130px;
+    margin-left: 443.5px;
+}
+.circle_Surf_sup{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background-color: red;
+    margin-top: 3130px;
+    margin-left: 787.5px;
+}
+.circle_Stand_up{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background-color: red;
+    margin-top: 3130px;
+    margin-left: 1131.5px;
+}
+.circle_Surf_trips{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background-color: red;
+    margin-top: 3130px;
+    margin-left: 1475.5px;
+    border: #0A507A;
+}
+.transparent_circles{
+    position: absolute;
+    margin-top: 3173px;
+    margin-left: 99.5px;
+}
+.img_title{
+    position: absolute;
+    margin-top: 3617px;
+}
+.review{
+    position: absolute;
+    margin-top: 4367px;
+    margin-left: 970px;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+}
+.go{
+    text-transform: uppercase;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 100%;
+    position: absolute;
+    margin-top: 4383px;
+    margin-left: 970px;
+}
+.img_reviews_number_one{
+    position: absolute;
+    margin-top: 4596px;
+    margin-left: 100px;
+}
+.img_reviews_number_two{
+    position: absolute;
+    margin-top: 4690px;
+    margin-left: 390px;
+}
+.img_reviews_number_three{
+    position: absolute;
+    margin-top: 4596px;
+    margin-left: 970px;
+}
+.img_reviews_number_four{
+    position: absolute;
+    margin-top: 4690px;
+    margin-left: 1550px;
+}
+.text_about_reviews_first{
+    position: absolute;
+    margin-top: 4986px;
+    margin-left: 100px;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+}
+.name_reviews{
+    position: absolute;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    margin-top: 5043px;
+    margin-left: 100px;
+}
+.text_about_reviews_two{
+    position: absolute;
+    margin-top: 5105px;
+    margin-left: 390px;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+}
+.name_reviews_name{
+    position: absolute;
+    margin-left: 911px;
+    margin-top: 5121px;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+}
+.data_reviews{
+    position: absolute;
+    margin-left: 850px;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    margin-top: 5147px;
+}
+.text_about_reviews_three{
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    position: absolute;
+    margin-top: 5011px;
+    margin-left: 970px;
+}
+.name_mark{
+    position: absolute;
+    margin-left: 515px;
+    margin-top: -60px;
+}
+.date_reviews_q{
+    position: absolute;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    margin-top: 5074px;
+    margin-left: 1423px;
+}
+.the_best{
+    position: absolute;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    margin-top: 5080px;
+    margin-left: 1550px;
+}
+.name_tom{
+    position: absolute;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    margin-top: 5116px;
+    margin-left: 1550px;
+}
+.date_tom{
+    position: absolute;
+    font-family: "Rethink Sans", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    margin-top: 5142px;
+    margin-left: 1550px;
+}
+.footer{
+    position: absolute;
+    margin-top: 5322px;
 }
